@@ -76,7 +76,7 @@ reward.value: 20
 # If you want you can write a command here , it will be executed when a player wins.
 # N.B : You can use {PLAYER} as the player name. EXAMPLE: '/tell {PLAYER} You won!'
 # N:B : The command is executed as console
-reward.command: '/'
+reward.command: '/title Niekert title §aYou have won! subtitle §bYou earned €20!'
 # ------------------------------------------\REWARDS-----------------------------------------
 
 
